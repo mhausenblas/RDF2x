@@ -10,7 +10,9 @@ In order to enable these tools to benefit from the vast amount of RDF data avail
 
 ## Contact
 
-If you have any questions or want to contribute, please contact [Michael](mailto:michael.hausenblas@deri.org)
+If you have any questions or want to contribute, please contact [Michael](mailto:michael.hausenblas@deri.org).
 
-## License
+## Acknowledgements and License
+The work performed here is partially sponsored through the Integrated Project [LOD2](http://lod2.eu/WikiArticle/Project.html) (FP7-ICT-2009-5, No. 257943).
+
 All converters here are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Software License.
