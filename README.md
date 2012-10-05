@@ -3,6 +3,10 @@
 
 A collection of converters from RDF to data formats. An activity of [LOD2's WP9](http://lod2.eu/WorkPackage/wp9.html).
 
+## WiP
+
+See the [planning page](https://github.com/mhausenblas/RDF2x/wiki/Planning) in the Wiki ...
+
 ## Background
 
 More and more data is being made available in [RDF](http://lod-cloud.net/state/), however, many tools out there used by professionals and semi-professionals alike, inlc. SPSS, MS Excel, etc. don't natively speak RDF.
